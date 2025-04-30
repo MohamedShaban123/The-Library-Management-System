@@ -1,0 +1,142 @@
+﻿[
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Classic",
+    "PublishedYear": 1925,
+    "IsAvailable": true
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Fiction",
+    "PublishedYear": 1960,
+    "IsAvailable": true
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "PublishedYear": 1949,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Moby Dick",
+    "Author": "Herman Melville",
+    "Genre": "Adventure",
+    "PublishedYear": 1851,
+    "IsAvailable": false
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "PublishedYear": 1813,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Genre": "Fiction",
+    "PublishedYear": 1951,
+    "IsAvailable": false
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "Genre": "Science Fiction",
+    "PublishedYear": 1932,
+    "IsAvailable": true
+  },
+  {
+    "Title": "War and Peace",
+    "Author": "Leo Tolstoy",
+    "Genre": "Historical Fiction",
+    "PublishedYear": 1869,
+    "IsAvailable": false
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Author": "Fyodor Dostoevsky",
+    "Genre": "Philosophical Fiction",
+    "PublishedYear": 1866,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "PublishedYear": 1937,
+    "IsAvailable": false
+  },
+  {
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "Genre": "Science Fiction",
+    "PublishedYear": 1965,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Frankenstein",
+    "Author": "Mary Shelley",
+    "Genre": "Gothic Fiction",
+    "PublishedYear": 1818,
+    "IsAvailable": false
+  },
+  {
+    "Title": "The Divine Comedy",
+    "Author": "Dante Alighieri",
+    "Genre": "Epic Poetry",
+    "PublishedYear": 1320,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Dracula",
+    "Author": "Bram Stoker",
+    "Genre": "Horror",
+    "PublishedYear": 1897,
+    "IsAvailable": false
+  },
+  {
+    "Title": "The Odyssey",
+    "Author": "Homer",
+    "Genre": "Epic Poetry",
+    "PublishedYear": -800,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Brontë",
+    "Genre": "Gothic Fiction",
+    "PublishedYear": 1847,
+    "IsAvailable": false
+  },
+  {
+    "Title": "Wuthering Heights",
+    "Author": "Emily Brontë",
+    "Genre": "Tragedy",
+    "PublishedYear": 1847,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Count of Monte Cristo",
+    "Author": "Alexandre Dumas",
+    "Genre": "Adventure",
+    "PublishedYear": 1844,
+    "IsAvailable": false
+  },
+  {
+    "Title": "Les Misérables",
+    "Author": "Victor Hugo",
+    "Genre": "Historical Fiction",
+    "PublishedYear": 1862,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Author": "Oscar Wilde",
+    "Genre": "Philosophical Fiction",
+    "PublishedYear": 1890,
+    "IsAvailable": false
+  }
+]

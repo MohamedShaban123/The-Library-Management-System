@@ -1,0 +1,102 @@
+﻿[
+  {
+    "UserId": 5,
+    "BookId": 3,
+    "ReturnDate": "2025-03-10T00:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "BookId": 3,
+    "ReturnDate": "2025-03-10T00:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "BookId": 7,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 1,
+    "BookId": 7,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 2,
+    "BookId": 12,
+    "ReturnDate": "2025-03-05T00:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "BookId": 12,
+    "ReturnDate": "2025-03-05T00:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "BookId": 5,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 4,
+    "BookId": 5,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 4,
+    "BookId": 9,
+    "ReturnDate": "2025-02-28T00:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "BookId": 9,
+    "ReturnDate": "2025-02-28T00:00:00Z"
+  },
+  {
+    "UserId": 5,
+    "BookId": 14,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 5,
+    "BookId": 14,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 5,
+    "BookId": 18,
+    "ReturnDate": "2025-03-15T00:00:00Z"
+  },
+  {
+    "UserId": 5,
+    "BookId": 18,
+    "ReturnDate": "2025-03-15T00:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "BookId": 20,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 1,
+    "BookId": 20,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 1,
+    "BookId": 6,
+    "ReturnDate": "2025-02-25T00:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "BookId": 6,
+    "ReturnDate": "2025-02-25T00:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "BookId": 10,
+    "ReturnDate": null
+  },
+  {
+    "UserId": 2,
+    "BookId": 10,
+    "ReturnDate": null
+  }
+]
